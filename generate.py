@@ -527,7 +527,7 @@ def generate_weekly_book():
 
     try:
         json_files = [f for f in os.listdir("data") if f.endswith(".json") and f != "strategy_master.json"]
-        if len(json_files) < 5:
+        if len(json_files) < 2:
             logging.info("記事データが不足しているため、今週の書籍生成をスキップします（最低5記事以上必要）。")
             return
 
