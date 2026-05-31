@@ -18,5 +18,20 @@
     "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
     "processed_at": "2026-05-31T13:34:09.513907",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/05/29/dells-earnings-blowout-makes-clear-now-is-not-the-time-to-go-against-the-ai-grain.html",
+    "processed_at": "2026-05-31T14:30:36.051694",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/05/29/jim-cramer-says-nvidia-is-a-clear-winner-from-dells-monster-quarter.html",
+    "processed_at": "2026-05-31T14:30:36.051710",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html",
+    "processed_at": "2026-05-31T14:30:48.274877",
+    "status": "published"
   }
 ]
