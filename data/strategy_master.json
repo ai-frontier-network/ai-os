@@ -1,0 +1,32 @@
+{
+  "ai_career_shift": {
+    "keyword_trigger": "キャリア",
+    "seo_keywords": ["AI 時代 生き残る仕事", "リスキリング 40代", "サラリーマン 副業 2026"],
+    "trust_links": [
+      {
+        "title": "厚生労働省：情報技術分野等のリスキリング推進",
+        "url": "https://www.mhlw.go.jp/"
+      }
+    ]
+  },
+  "mental_healling_and_zen": {
+    "keyword_trigger": "メンタル",
+    "seo_keywords": ["マインドフルネス 効果", "デジタルデトックス やり方", "HSP 生きづらい 対策"],
+    "trust_links": [
+      {
+        "title": "厚生労働省：こころの耳（働く人のメンタルヘルス・ポータル）",
+        "url": "https://kokoro.mhlw.go.jp/"
+      }
+    ]
+  },
+  "decision_making_os": {
+    "keyword_trigger": "意思決定",
+    "seo_keywords": ["合理的な選択 方法", "情報過多 疲れた", "人生の選択 迷う"],
+    "trust_links": [
+      {
+        "title": "内閣府：人間中心のAI社会原則",
+        "url": "https://www.cao.go.jp/"
+      }
+    ]
+  }
+}
