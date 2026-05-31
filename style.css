@@ -131,3 +131,14 @@ a:hover { text-decoration: underline; }
     .article-card { padding: 20px; }
     .toggle-button { width: 100%; text-align: center; }
 }
+
+/* --- プチ書籍（Weekly Book）の章ごとの美しい余白設定 --- */
+.book-content-body h3 { 
+    margin-top: 50px; 
+    margin-bottom: 20px; 
+    border-bottom: 1.5px solid var(--border-color); 
+    padding-bottom: 8px; 
+}
+.book-content-body p { 
+    margin-bottom: 25px; 
+}
