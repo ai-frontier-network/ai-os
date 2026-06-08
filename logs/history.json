@@ -98,5 +98,15 @@
     "url": "https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html",
     "processed_at": "2026-06-07T04:50:08.713009",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
+    "processed_at": "2026-06-08T04:55:26.737490",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/06/08/kospi-sk-hynix-samsung-electronics-why-foreign-investors-are-selling.html",
+    "processed_at": "2026-06-08T04:55:42.716721",
+    "status": "published"
   }
 ]
