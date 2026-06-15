@@ -143,5 +143,15 @@
     "url": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
     "processed_at": "2026-06-14T05:00:35.120568",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/06/15/softbank-up-more-than-12percent-on-news-of-iran-us-peace-deal-.html",
+    "processed_at": "2026-06-15T05:19:58.014895",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+    "processed_at": "2026-06-15T05:20:04.396913",
+    "status": "published"
   }
 ]
