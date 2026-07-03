@@ -248,5 +248,10 @@
     "url": "https://www.cnbc.com/2026/07/02/china-ev-stocks-xiaomi-byd-june-deliveries-production.html",
     "processed_at": "2026-07-02T04:14:12.283029",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+    "processed_at": "2026-07-03T04:00:53.273338",
+    "status": "published"
   }
 ]
