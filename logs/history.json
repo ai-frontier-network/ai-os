@@ -468,5 +468,15 @@
     "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
     "processed_at": "2026-08-12T02:34:03.802262",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+    "processed_at": "2026-08-13T02:35:19.685237",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/12/jim-cramer-ai-data-center-trade-leading-stocks.html",
+    "processed_at": "2026-08-13T02:35:34.446466",
+    "status": "published"
   }
 ]
