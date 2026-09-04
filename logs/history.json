@@ -593,5 +593,20 @@
     "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
     "processed_at": "2026-09-03T04:09:17.702333",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
+    "processed_at": "2026-09-04T04:16:15.913172",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/03/magnificent-seven-jim-cramer-says-time-to-buy.html",
+    "processed_at": "2026-09-04T04:16:15.913184",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+    "processed_at": "2026-09-04T04:16:32.687283",
+    "status": "published"
   }
 ]
