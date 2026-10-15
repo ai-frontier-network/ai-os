@@ -813,5 +813,25 @@
     "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
     "processed_at": "2026-10-14T04:40:03.982911",
     "status": "published"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+    "processed_at": "2026-10-15T04:21:58.301855",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "processed_at": "2026-10-15T04:21:58.301863",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+    "processed_at": "2026-10-15T04:21:58.301865",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+    "processed_at": "2026-10-15T04:22:10.248820",
+    "status": "published"
   }
 ]
